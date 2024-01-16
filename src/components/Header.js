@@ -2,9 +2,9 @@ import React from 'react';
 
 const Header = () => {
     return(
-        <div>
-            this is the heading div
-        </div>
+        <header>
+            Etiquette.
+        </header>
     );
 }
 
