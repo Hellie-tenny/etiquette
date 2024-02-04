@@ -1,3 +1,14 @@
-{
-    
-}
+[
+    {
+        "id": "1",
+        "name": "Slumber party"
+    },
+    {
+        "id": "2",
+        "name": "Birthday party"
+    },
+    {
+        "id": "3",
+        "name": "Graduation party"
+    }
+]

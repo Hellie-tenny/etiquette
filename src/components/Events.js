@@ -1,12 +1,16 @@
 import React from 'react';
 
-const Events = () => {
+const Events = (props) => {
     return(
         <div>
             <ul>
-                <li>Event 1</li>
-                <li>Event 2</li>
-                <li>Event 3</li>
+                {/* {props.events.map(
+                    event => {
+                        return(
+                            <li>{event}</li>
+                        );
+                    }
+                )} */}
             </ul>
         </div>
     );
